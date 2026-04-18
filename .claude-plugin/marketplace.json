@@ -1,0 +1,8 @@
+{
+  "name": "svg-logo-generator",
+  "display_name": "SVG Logo Generator",
+  "description": "用 AI 写代码做 Logo，不用画图。SVG 精确可控、可编辑、矢量无损。",
+  "category": "design",
+  "tags": ["logo", "svg", "design", "branding", "vector"],
+  "install_command": "npx skills add https://github.com/ohwiki/svg-logo-generator.git -g"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "svg-logo-generator",
+  "version": "1.0.0",
+  "description": "SVG Logo Generator - Write logos with code, not images. Generate 6 SVG variants + HTML preview + black/white test versions.",
+  "author": "ohwiki",
+  "license": "MIT",
+  "homepage": "https://github.com/ohwiki/svg-logo-generator",
+  "skills": [
+    {
+      "name": "svg-logo-generator",
+      "path": "skills/svg-logo-generator",
+      "description": "SVG Logo 生成器。用代码写 Logo，不用画图。输入品牌信息，输出 6 个 SVG 变体 + HTML 预览页 + 黑白测试版。"
+    }
+  ]
+}
